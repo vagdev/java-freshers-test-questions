@@ -1,8 +1,14 @@
-Write a program to reverse a given string without using any built in methods?
-	e.g String reverseAString(String str) {
+<ol>
+	<li>
+	<strong>Write a program to reverse a given string without using any built in methods?</strong>
+	
+	<code>
+		String reverseAString(String str) {
 		// your logic
 		return reversedString;
-	}
+		}
+	</code>
+</li>
 
 Write a program to swap two numbers without using a third variable?
 	e.g swapNumbers(int a, int b) {
@@ -31,3 +37,5 @@ Write a program to print the character count in a given string?
 	e.g given string = "abcdABCDabcd"
 		then your program should print the following
 		 {a=2, A=1, b=2, B=1, c=2, C=1, d=2, D=1}
+
+</ol>
