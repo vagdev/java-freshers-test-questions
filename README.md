@@ -11,7 +11,7 @@ String reverseAString(String str) {
 
 ```java
 
-****swapNumbers(int a, int b) {
+swapNumbers(int a, int b) {
 // your logic
 }
 ```
